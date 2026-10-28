@@ -70,7 +70,7 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 ## 📚Resultado do Projeto
 
 ### Croqui Inicial:
-<h3 align="center">📊 Croqui Inicial</h3>
+<h3 align="center">
 <img width="1130" height="944" alt="Gemini_Generated_Image_5yipni5yipni5yip" src="https://github.com/user-attachments/assets/c6c4ac0f-404e-42c3-992a-ede1b2cc6523" />
 
 <p align="center">
