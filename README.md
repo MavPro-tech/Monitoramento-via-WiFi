@@ -23,7 +23,7 @@
   
 ## 📌Objetivo do Projeto
 > [!IMPORTANT]
->  O objetivo principal deste projeto é desenvolver um sistema de monitoramento de temperatura e umidade via Wi-Fi, utilizando sensores e uma interface com tela touchscreen para a visualização dos dados em tempo real. O sistema busca oferecer o acompanhamento das condições ambientais, o armazenamento do histórico de medições e a configuração de limites de temperatura, com acionamento de alertas visuais e sonoros quando necessário. Dessa forma, pretende-se proporcionar maior praticidade, controle e confiabilidade no monitoramento ambiental.
+> O objetivo principal deste projeto é desenvolver um sistema de monitoramento de temperatura e umidade via Wi-Fi, utilizando dois microcontroladores: o ESP32-C3, responsável pela leitura dos dados ambientais por meio do sensor DHT22 e pelo envio das informações, e o ESP32-S3, integrado a uma tela touchscreen de 7 polegadas, responsável pela exibição dos dados em tempo real e pela interação com o usuário. O sistema também busca permitir o armazenamento do histórico de medições, a configuração de limites de temperatura e o acionamento de alertas visuais e sonoros quando necessário. Dessa forma, pretende-se proporcionar maior praticidade, controle e confiabilidade no monitoramento ambiental.
 
 
 > **Status do Projeto: Em andamento🚧**
@@ -33,7 +33,7 @@
   
 ## 💡Visão do Produto
 > [!TIP]
-O monitoramento de temperatura e umidade permite integrar conhecimentos de eletrônica, programação e comunicação sem fio no desenvolvimento de soluções tecnológicas. Nesse contexto, o projeto MAVPRO visa desenvolver um sistema de monitoramento ambiental via Wi-Fi, utilizando sensores, um microcontrolador ESP32 e uma interface touchscreen para visualizar os dados em tempo real. O sistema também permite acompanhar o histórico das medições, configurar limites de temperatura e utilizar alertas visuais e sonoros, proporcionando maior praticidade e controle no acompanhamento das condições ambientais.
+O monitoramento de temperatura e umidade permite integrar conhecimentos de eletrônica, programação e comunicação sem fio no desenvolvimento de soluções tecnológicas. Nesse contexto, o projeto MAVPRO visa desenvolver um sistema de monitoramento ambiental via Wi-Fi, utilizando sensores, um microcontroladors ESP32 e uma interface touchscreen para visualizar os dados em tempo real. O sistema também permite acompanhar o histórico das medições, configurar limites de temperatura e utilizar alertas visuais e sonoros, proporcionando maior praticidade e controle no acompanhamento das condições ambientais.
 
 <span id="metodologia">
   
