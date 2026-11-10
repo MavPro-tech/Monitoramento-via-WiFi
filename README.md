@@ -192,9 +192,11 @@ https://github.com/user-attachments/assets/e261ff6e-b604-4f39-8951-d5cd40569fe1
 
 
 <span id="conclusao">
-## ✅Conclusão
+## ✅Conclusão <br>
 
-*Com a finalização deste projeto, foi possível comprovar o funcionamento eficaz do sensor óptico de barreira, atendendo plenamente aos objetivos inicialmente propostos. O sistema demonstrou ser funcional, de fácil implementação e capaz de detectar de forma precisa a interrupção de objetos na barreira de luz, ativando os sinais sonoro e luminoso conforme planejado. Durante o desenvolvimento, a colaboração entre os integrantes da equipe foi essencial, promovendo um ambiente de trabalho cooperativo e produtivo. O comprometimento coletivo foi determinante para a superação dos desafios encontrados ao longo do processo, especialmente nas etapas de montagem e soldagem dos componentes na placa de circuito impresso, que exigiram atenção, paciência e precisão.*
+*Com a finalização deste projeto, foi possível desenvolver e demonstrar o funcionamento de um sistema de monitoramento de temperatura e umidade por meio da comunicação Wi-Fi entre dois microcontroladores ESP32. O sistema permite realizar a coleta de dados utilizando o sensor DHT22, transmitir as informações para a interface touchscreen e acompanhar as condições ambientais em tempo real. Além disso, foram implementados recursos de visualização do histórico de medições, configuração do limite máximo de temperatura e acionamento de alertas sonoros e visuais nos modos automático e manual.<br>
+Durante o desenvolvimento, a utilização do SquareLine Studio e da biblioteca LVGL possibilitou a criação de uma interface gráfica interativa, facilitando a visualização das informações e a utilização do sistema. O projeto também proporcionou a aplicação prática de conhecimentos relacionados à eletrônica, programação, comunicação sem fio e integração de hardware e software.<br>
+A colaboração entre os integrantes da equipe foi essencial para a realização das atividades e para a superação dos desafios encontrados durante o desenvolvimento. O comprometimento coletivo, a troca de conhecimentos e a organização das tarefas contribuíram para o andamento do projeto e para o alcance dos objetivos propostos.<br>*
 
 > 
 
