@@ -77,7 +77,8 @@ A montagem dos componentes foi realizada em uma protoboard, com todos os element
 **Codigo C3**
 [Clique Aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/blob/entrega_02/Sprints/Sprint_03/esp_c3.ino)
 
-**Codigo S3 + Interface**
+**Codigo S3 + Interface** <br>
+*Para que a interface gráfica funcione corretamente, é necessário exportar o projeto diretamente do SquareLine Studio para o LVGL. Em seguida, adicione os arquivos exportados na mesma pasta que contém o arquivo .INO. **Importante:** tanto a pasta do projeto quanto o arquivo .INO principal devem possuir exatamente o mesmo nome.* <br>
 [Clique Aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/blob/main/Sprints/Sprint_04/Esp-S3.zip)
 
 **Interface SquareLine Studio**
