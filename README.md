@@ -61,7 +61,7 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 #### Entrega - 1️⃣ ([Clique aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/tree/entrega_01))🎯Concluído ✅
 #### Entrega - 2️⃣ ([Clique aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/tree/entrega_02))🎯Concluído ✅
 #### Entrega - 3️⃣ ([Clique aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/tree/entrega_03))🎯Concluído ✅
-#### Entrega - 4️⃣ ([Clique aqui/]())🎯Concluído ✅
+#### Entrega - 4️⃣ ([Clique aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/tree/entrega_04))🎯Concluído ✅
 
 </br> 
 
