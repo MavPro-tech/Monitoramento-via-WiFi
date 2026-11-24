@@ -78,11 +78,22 @@ A montagem dos componentes foi realizada em uma protoboard, com todos os element
 [Clique Aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/blob/entrega_02/Sprints/Sprint_03/esp_c3.ino)
 
 **Codigo S3 + Interface** <br>
-*Para que a interface gráfica funcione corretamente, é necessário exportar o projeto diretamente do SquareLine Studio para o LVGL. Em seguida, adicione os arquivos exportados na mesma pasta que contém o arquivo .INO. **Importante:** tanto a pasta do projeto quanto o arquivo .INO principal devem possuir exatamente o mesmo nome.* <br>
+*Para que a interface gráfica funcione corretamente, é necessário exportar o projeto diretamente do SquareLine Studio para o LVGL.Essa exportação gera uma pasta contendo os arquivos de código da interface, com extensão .txt. Após a exportação, é necessário criar, dentro dessa mesma pasta, um arquivo para o Arduino IDE com a extensão .ino, que será o arquivo principal do projeto e responsável por integrar a interface gráfica ao restante do sistema.*<br>
+**Importante:** *o nome da pasta do projeto e o nome do arquivo principal .ino devem ser exatamente iguais, garantindo que o Arduino IDE reconheça e organize corretamente os arquivos durante a compilação.* <br>
 [Clique Aqui](https://github.com/MavPro-tech/Monitoramento-via-WiFi/blob/main/Sprints/Sprint_04/Esp-S3.zip)
 
 **Interface SquareLine Studio**
 <img width="1360" height="682" alt="squareLine" src="https://github.com/user-attachments/assets/4fc8c4d1-a33d-4e91-82fc-0e7177b315a0" />
+<br>
+
+## Delmia<br>
+A simulação do sistema de monitoramento de temperatura e umidade foi realizada no software DELMIA, com o objetivo de representar o ambiente de utilização do equipamento e analisar seu posicionamento em relação ao operador. Para isso, foi desenvolvido um cenário virtual contendo uma bancada de trabalho, o dispositivo de monitoramento e um personagem representando o operador.<br>
+A modelagem do ambiente permitiu visualizar a disposição do equipamento sobre a bancada e simular a movimentação do operador durante a aproximação e interação com o sistema. Essa etapa possibilitou observar a organização do espaço de trabalho e avaliar a acessibilidade do dispositivo, considerando sua utilização em um ambiente industrial.<br>
+
+https://github.com/user-attachments/assets/5d7796fe-f56f-4b20-92e9-0f3de7c8b8b7
+
+
+
 
 
 <span id="cronograma">
